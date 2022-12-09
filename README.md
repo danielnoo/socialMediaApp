@@ -1,0 +1,2 @@
+# socialMediaApp
+react, next, tailwind
